@@ -1,0 +1,6 @@
+<a href="https://time.is/Pflugerville" id="time_is_link" rel="nofollow" style="font-size:20px;color:#FFFFFF;background:#2F3437">Time in Pflugerville:</a>
+<span id="Pflugerville_z123" style="font-size:20px;color:#FFFFFF;background:#2F3437"></span>
+<script src="//widget.time.is/en.js"></script>
+<script>
+time_is_widget.init({Pflugerville_z123:{template:"DATE<br>SUN", date_format:"year-monthnum-daynum", sun_format:"Sunrise: srhour:srminute Sunset: sshour:ssminute", coords:"30.4393700,-97.6200000"}});
+</script>
